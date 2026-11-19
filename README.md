@@ -56,5 +56,5 @@ The ports and URLs are hardcoded in the code, not read from env vars (the backen
 
 ## Notes
 
-A team project, with the dataset recorded by all of us. Contributors: [Hashim](https://github.com/justhashim), [Khansa Shahan](https://github.com/khanzaaa07), [Anna Catherene](https://github.com/cathereneanna), [Jeeson Paul](https://github.com/Jeeson-Paul).
+Won first prize at the MecLabs Hackathon (2025). A team project, with the dataset recorded by all of us. Contributors: [Hashim](https://github.com/justhashim), [Khansa Shahan](https://github.com/khanzaaa07), [Anna Catherene](https://github.com/cathereneanna), [Jeeson Paul](https://github.com/Jeeson-Paul).
 It is a prototype: 16 signs, single frames, no sentence-level translation.
