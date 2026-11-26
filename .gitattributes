@@ -1,0 +1,4 @@
+# Keep the language bar about the code, not the styles or launcher scripts.
+*.css linguist-detectable=false
+start.sh linguist-detectable=false
+start.ps1 linguist-detectable=false
